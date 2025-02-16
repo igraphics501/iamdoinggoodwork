@@ -1,0 +1,2 @@
+const char* staSSID = "Itel S24";   // Replace with your router Wi-Fi SSID
+const char* staPassword = "iamdoinggood";
